@@ -69,8 +69,8 @@ body{
 @media (max-width:748px) {
     .container{
         width: 90%;
-        margin: auto;
-        margin-top:50px ;
+        margin: 100px auto;
+        /* margin-top:50px ; */
     
     }
 }
